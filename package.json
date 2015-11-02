@@ -1,0 +1,16 @@
+{
+  "title": "Less Stressful Twitter",
+  "name": "lessstressfultwitter",
+  "version": "1.0.0",
+  "description": "Make Twitter A Bit Less Stressful",
+  "main": "index.js",
+  "author": "Simon Vansintjan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

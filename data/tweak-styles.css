@@ -1,0 +1,13 @@
+/* Haha no just kidding.
+body {
+  display: none;
+}
+*/
+
+.ProfileCardStats,
+.Trends,
+.wtf-module.has-content {
+  display: none;
+}
+
+
